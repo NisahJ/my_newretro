@@ -1,0 +1,4 @@
+Apa yang saya buat Kelmarin?
+
+- belajar aplikasi baru Elixir, Erlang, Phoenix
+- buat simple framework

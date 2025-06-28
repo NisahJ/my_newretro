@@ -1,0 +1,8 @@
+ Apa yang saya buat Kelmarin?
+Pengenalan tentang program yang saya ikut, dan Program ni akan berjalan selama 3 bulan.
+Belajar bedan baru
+    - GitHub
+    - Cursor
+    - Git
+Dan belajar command yang digunakan dalam Cursor
+

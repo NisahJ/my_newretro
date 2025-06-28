@@ -1,0 +1,9 @@
+Apa yang Blocking saya hari ini
+1. Cara penggunan command untuk buat web live
+	- susunan command untuk phx.live
+	- penggunaan ayat chatgpt untuk cari command phx.live
+
+2. Update untuk my_retro dalam GitHub tidak dapat.
+    - sudah cuba cari penyelesaian dalam ChatGpt pun tidak dapat juga
+    - sudah cuba ikut arahan yang ChatGpt bagi pun sama, tidak juga dapat update untuk jul_2
+

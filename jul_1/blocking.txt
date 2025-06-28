@@ -1,0 +1,7 @@
+ Apa yang Blocking saya Hari Ini? BANYAK!!!
+
+	1. Cara pemasangan aplikasi - aplikasi dan macam mana mahu link kan aplikasi ini.
+	2. Dari susunan mana aplikasi yang perlu di pasang dulu, dan mana yang perlu dibuat seterusnya.
+        lepas tu kena tunggu lagi komputer kena restart.
+        cth : kena pasang dulu app A baru pasang app B, lepas tu kena install lagi balik app A sebab ada path yang app b kena digunakan dalam app A.
+	3. Cara penggunaan "command" untuk link antara aplikasi ni.

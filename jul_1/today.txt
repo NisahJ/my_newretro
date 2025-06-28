@@ -1,0 +1,12 @@
+ Apa yang saya buat Hari Ini?
+1. Hari ini saya berlajar aplikasi baru, aplikasi ni saya tidak pernah dengar dan guna sebelum ini
+2. Antara apliksi yang saya belajar hari ini :-
+		i    - Elixir Programming Languange
+		ii   - Erlang
+		iii  - Pheonix Framework
+		iv   - Postgresql
+        	v    - PowerShell
+
+3.Cara penggunaan Cursor yang lebih mendalam
+4.belajar Command Cursor yang baru
+5.Penggunaan ChatGPT dalam membantu untuk menyelesaikan masalah

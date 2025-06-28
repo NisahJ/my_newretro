@@ -1,0 +1,4 @@
+Apa yang saya buat hari ini?
+
+- belajar macam mana kasih masuk projek dari local folder (pc) ke dalam github
+- belajar create simple web yang ada web.live
