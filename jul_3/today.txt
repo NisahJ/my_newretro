@@ -1,0 +1,12 @@
+
+
+	Apa yang saya buat Hari Ini?
+	1. buat persiapan untuk presentation
+		- presentation tentang mini projek :-
+		: mini projek saya :: money_track_use
+				: projek ini membolehkan kita untuk track penggunaan duit yang kita lakukan
+				- cth : barang apa yang kita beli, berapa harga, tarikh pembelian barang tersebut
+	2. saya buat folder baru untuk my_retro sebab folder sebelum ni tidak dapat buat untuk update new retro.
+	3. buat pemahaman untuk slide yang saya bentang, cari maklumat dalam ChatGpt
+	4. try and error untuk buat simple website yang lain
+	5. tanya kawan-kawan yang lain, dengan pemahaman dorang tentang simple projek yang kami buat

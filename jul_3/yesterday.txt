@@ -1,0 +1,7 @@
+Apa yang saya buat Kelmarin?
+	1. buat simple command untuk buat website, belajar dengan chatgpt untuk macam mana mahu tulis command untuk buat website
+	2. belajar macam mana kasih masuk local folder/file dalam pc ke dalam GitHub
+	3. lepas kelas kami bincang tentang projek yang kami buat
+		- cari code dalam ChatGpt
+		- cuba buat dalam Cursor > bila dapat error, kami tanya balik sama ChatGpt
+		- disini kami banyak try and error la, sampai kami dapat run kan website kami

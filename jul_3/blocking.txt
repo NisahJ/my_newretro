@@ -1,0 +1,4 @@
+Apa yang Blocking saya Hari Ini?
+	- saya cuba untuk update balik my_retro dalam GitHub tapi tidak dapat.
+	- banyak error waktu buat simple projek, ada juga tanya ChatGpt dan adakalanya ChatGpt bagi salah arahan untuk kasih bagus tu command
+	- ChatGpt juga salah bagi maklumat untuk slide saya, tapi itu masih membantu juga
