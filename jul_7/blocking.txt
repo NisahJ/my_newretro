@@ -1,0 +1,3 @@
+Apa yang Blocking saya Hari Ini?
+	- belajar kasih masuk kode secara manual
+	- memahami C R U D dalam konsep Frontend

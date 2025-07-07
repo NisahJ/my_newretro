@@ -1,0 +1,2 @@
+Apa yang saya buat Hari Ini?
+	- belajar C R U D backend, macam mana cara kasih masuk data secara manual guna cursor,
