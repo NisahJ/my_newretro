@@ -1,0 +1,6 @@
+Apa yang saya buat Hari Ini?
+	- belajar C R U D frontend, buat presentation
+	- belajar lagi function-function dari slide presentation
+		- masih lagi cuba untuk faham data-data yang dapat dari presentation tadi
+	- belajar mix ecto.gen.migrations
+	- macam mana mahu tambah schema baru

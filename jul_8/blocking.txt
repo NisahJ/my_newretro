@@ -1,0 +1,5 @@
+Apa yang Blocking saya Hari Ini?
+	- memahami fungsi satu-satu function dalam phoenix
+	- terangkan apa yang sudah saya belajar (tapi saya pun masih tidak faham juga)
+	- masih belajar cara buat mix etco.gen.migrations
+	- 
