@@ -1,0 +1,3 @@
+Apa yang saya buat Kelmarin?
+	- belajar C R U D frontend, buat presentation
+	- belajar lagi function-function dari slide presentation

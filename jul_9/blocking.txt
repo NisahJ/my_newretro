@@ -1,0 +1,6 @@
+Apa yang Blocking saya Hari Ini?
+	- kasih masuk fomat dalam show.html, index.html, dan form_component
+        - untuk yang ini nanti mahu cek balik dalam chatgpt
+        - perlu lebih penerangan dalam chatgpt
+    - cuba faham apa yang saya bentang besok
+    - cari idea untuk buat slide

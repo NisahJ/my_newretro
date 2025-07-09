@@ -1,0 +1,6 @@
+Apa yang saya buat Hari Ini?
+	- function partten matching
+	- belajar basic type elixir
+		- apa jenis-jenis type yang digunakan oleh elixir
+		- buat slide (fokuskan kepada atom)
+	-
