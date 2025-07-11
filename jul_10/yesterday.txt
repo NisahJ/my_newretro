@@ -1,0 +1,4 @@
+Apa yang saya buat Kelmarin?
+	- function partten matching
+	- belajar basic type elixir
+		- apa jenis-jenis type yang digunakan oleh elixir

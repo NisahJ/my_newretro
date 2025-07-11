@@ -1,0 +1,5 @@
+Apa yang saya buat Hari Ini?
+	- belajar buat pengiraan BMI,
+	- buat presentation pasal Basic Type Elixir,
+		- tapi saya kurang faham dalam slide pembentangan saya,
+		- saya tidak dapat jelaskan dengan betul tentang tajuk pembentangan saya

@@ -1,0 +1,7 @@
+Apa yang Blocking saya Hari Ini?
+	- buat BMI, walaupun dapat buat tapi masih perlu faham lagi
+	- untuk pembentangan, saya masih kurang faham dalam tajuk yang saya bentang
+	- perlu kurik lagi apa tu " Enum ", sebab saya tidak pernah dengar, jumpa dalam coding ataupun guna
+	- try buat mini projek yang baru ni
+		- kasih masuk ic, lepas tu boleh tahu user tu dari negeri mana sama gender dorang
+		- ni pun kena try lagi balik, belajar dengan kawan yang sudah dapat buat
