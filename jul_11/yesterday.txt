@@ -1,0 +1,4 @@
+Apa yang saya buat Kelmarin?
+	- belajar buat pengiraan BMI, dengan cek IC, kalau kasih masuk tu IC terus dapat detect dia perempuan ka lelaki,
+		dia asal dari mana
+	- buat presentation pasal Basic Type Elixir, Lists " [] " & Tuple " {} "
