@@ -1,0 +1,14 @@
+Apa yang saya buat Hari Ini?
+	- belajar guna css, html, tailwind
+		(tapi ni yang basic punya la)
+		- yang susah-susah belum lagi
+		 - try simple profolio guna buat html, css
+		 - lepas tu ubah css code tu pergi tailwind
+		 - jadi dalam html tu, guna code tailwind ja untuk buat website
+			( masih belaja lagi, masih cuma untuk faham command-command yang digunakan)
+
+	- kasih tau sir yang kami mahu ubah final projek
+		(kasih tahu sir tentang projek yang kami mahu buat)
+		- kami mahu buat satu website untuk IPS, Kota Belud 
+			(kalau ikut memang ni la, tapi tunggi dulu respon dari pihak IPS macam mana).
+
