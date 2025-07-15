@@ -1,0 +1,4 @@
+yesterday
+	Apa yang saya buat Kelmarin?
+	- belajar buat html, css dan tailwind
+	- bincang final projek

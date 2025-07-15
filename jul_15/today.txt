@@ -1,0 +1,8 @@
+Apa yang saya buat Hari Ini?
+	- belajar buat database relationship
+		- tapi saya lambat mula, jadi saya slow-slow untuk belajar balik dengan dorang
+	- kena belajar di mana mahu ubah/buat, simpan untuk buat relationship ni
+	- dan kalau mahu copy paste, kena pasti kan lepas copy check balik
+		- nama app,
+		- user
+		- ejaan 
