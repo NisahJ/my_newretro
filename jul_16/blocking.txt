@@ -1,0 +1,11 @@
+Apa yang Blocking saya Hari Ini?
+	- untuk mini projek ni " My Library"
+		- "KeyError" : key not found
+			(latihan pertama, buat relationship)
+				- system dapat run tapi masih ada error
+		- latihan ke 2 :-
+			- masih dalam proses lagi
+	
+	- untuk final projek
+		(kami masih dalam proses lagi) masih 50-50
+		( paling payah ni )

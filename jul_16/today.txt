@@ -1,0 +1,6 @@
+Apa yang saya buat Hari Ini?
+	- buat mini projek ni " My Library"
+		- latihan pertama, buat relationship untuk my library
+				- system dapat run tapi masih ada error
+		- latihan ke 2 :-
+			- masih dalam proses lagi
