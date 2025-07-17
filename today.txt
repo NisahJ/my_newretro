@@ -1,0 +1,7 @@
+Apa yang saya buat Hari Ini?
+	- kasih siap balik tugasan semalam
+		( latihan my_library )
+			- task : Show list book yang user pinjam
+
+	- untuk persentation adalah sudah faham sikit-sikit apa tu enum,
+		jenis-jenis enum, apa function-function enum
