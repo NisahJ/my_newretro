@@ -5,3 +5,4 @@ Apa yang saya buat Hari Ini?
 
 	- untuk persentation adalah sudah faham sikit-sikit apa tu enum,
 		jenis-jenis enum, apa function-function enum
+    -
