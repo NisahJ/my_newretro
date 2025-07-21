@@ -1,1 +1,3 @@
-
+Apa yang saya buat hari ini?
+	- Belajar tentang mix phx.gen.auth
+	- cara apply dalam phoenix, dimana mahu simpan function-function dia
