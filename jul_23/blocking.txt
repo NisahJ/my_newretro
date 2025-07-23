@@ -1,0 +1,4 @@
+Apa blocking saya hari ini?
+	- technical documentation - authentication
+	- boleh register tapi sebagai user seja, boleh masuk setting untuk user
+	- tapi untuk admin denied access
