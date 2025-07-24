@@ -1,0 +1,18 @@
+Apa yang saya buat hari ini?
+	- kasih siap yang kemarin punya latihan yang tidak siap lagi
+	 	( hari ni buat technical documentation - authentication )
+	- hari kasih siap page untuk admin dan user,
+		- sini admin boleh masuk page admin, user
+		( mula-mula tu admin boleh masuk admin seja, 
+		  user boleh masuk page user seja,
+		  lepas tu kai kasih tahu, admin boleh masuk page admin dan user )
+
+		( jadi ubah lagi kode dia, tapi tidak banyak mahu ubah, tambah function ja dalam user_auth)
+
+		- tapi user cuma boleh masuk page user seja
+
+	- jadi sekarang okey sudahlah, documentation pun siap sudah, dan sudah juga hantar
+
+	- tinggal saya ubah-ubah ja html dia
+		( try and error)
+		( cek dimana mahu ubah backgroun, ubah tulisan kasih tambah gambar )

@@ -1,0 +1,9 @@
+Blocking?
+Apa blocking saya hari ini?
+	- technical documentation - authentication
+	- boleh register tapi sebagai user seja
+		( yang ini settle sudah )
+		- boleh sudah register sebagai admin & user
+		- boleh masuk sudah
+	- yang kelmarin admin denied access
+		- hari ni okey sudah

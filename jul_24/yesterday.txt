@@ -1,0 +1,5 @@
+Apa yang saya buat kelmarin?
+	-  buat technical documentation - authentication
+		( dimana ada admin, dan user )
+			- admin boleh tengok page admin
+			- user boleh tengok page admin
