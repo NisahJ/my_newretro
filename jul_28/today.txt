@@ -1,0 +1,6 @@
+Apa yang saya buat hari ini?
+	- saya buat side bar untuk mini projek yang sebelum ini
+		- di dalam dashboard admin
+			ada side bar, -> setting
+			bila klik setting -> setting akan pergi page lain
+		- sama juga untuk dashboard user, tapi dashboard user masih kosong lagi
