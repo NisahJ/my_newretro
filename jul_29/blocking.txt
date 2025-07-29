@@ -1,0 +1,5 @@
+Apa blocking saya hari ini?
+	- cari cara untuk buat pagination tu,
+	- buat hover highlight
+	- munculkan maklumat email dalam senarai 1 
+
