@@ -1,0 +1,12 @@
+Apa yang saya buat hari ni?
+	- hari ini buat filtering sama pagination
+		- dalam table tu ada status,
+		  status ni la yang akan di filter.
+		- first buat tu memang jadi, tapi untuk page 2 dia ada error,
+		  sepatutnya bila buat filter tu, contoh filter untuk admin
+		  dalam page 1 & 2 tu ada admin, bila buat filter patutnya masuk page 1 ja
+		  dalam page 1 tu akan keluar paparan untuk filter status admin,
+		  tapi tidak jadi, lepas tu tanya lagi chatgpt macam mana mahu buat,
+		  dapat jawapan copy dan paste, faham juga la, tidak banyak tapi boleh
+	- next pula, try buat untuk direct masuk admin page dan users page,
+		- tapi yang ini masih dalam usaha lagi,

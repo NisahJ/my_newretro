@@ -1,0 +1,6 @@
+Apa yang saya buat kemarin?
+	- buat burger dan pagination
+		- untuk burger siap sudah, muncul sudah, boleh tutup buka
+	- untuk pagination pun ada sudah
+	  (walaupun banyak error, undo, copy paste)
+	  last-last dapat juga

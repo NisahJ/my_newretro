@@ -1,0 +1,13 @@
+Apa blocking saya hari ini?
+	- untuk filtering tidak juga banyak blocking, 
+		cuma blocking cara tanya chatgpt ja, lain yang dimint
+		lain yang dibagi
+	- untuk piganition pula, blocking dia bila klik page 2 lepas tu buat filtering
+	  tu page tetap di page 2 ja dan isi dia kosong, sepatutnya dia pergi page 1 dan ada isi,
+	  table tu kasih papar 2 admin.
+		- untuk yang ini okey sudah, sudah kasih betul tadi
+	- lepastu, try buat bila user kami masuk email, kalau admin dia terus masuk page admin,
+	  kalau user terus masuk page user.
+		- tapi ini belum dapat lagi, sudah tanya chatgpt, tapi masih belum berjaya juga
+		  jadi, akan disambung lagi besok
+
