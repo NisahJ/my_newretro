@@ -1,0 +1,10 @@
+Apa yang saya buat kemarin?
+    - hari ini buat filtering sama pagination
+		- dalam table tu ada status,dan status ni mau di filter
+		- first buat tu memang jadi, tapi untuk page 2 dia ada error,
+		  jadi tanya balik dengan chatgpt, kenapa dia macam ni?
+          dan kasih tahu chatgpt saya yang saya mahu bukan macam ni.
+		  dapat jawapan copy dan paste,
+          cuba untuk faham juga la mana yang dapat faham tu, yang tidak dapat faham
+          kena faham lagi balik
+
