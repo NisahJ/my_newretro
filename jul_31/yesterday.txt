@@ -1,1 +1,5 @@
-
+Apa yang saya buat kemarin?
+	- buat pagination sama filtering status dropdown
+		 - disini buat filter menggunakan status showbar tu
+		   (bila klik dropdown keluar admin, user dan semua)
+		 - jadi bila klik admin, keluar list admin, begitu juga dengan user

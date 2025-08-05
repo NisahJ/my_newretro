@@ -1,1 +1,11 @@
-
+Apa blocking saya hari ini?
+	- untuk filtering buat search bar tidak juga banyak blocking, 
+		cuma blocking cara mahu explain apa yang saya sudah buat
+	- tapi time saya cek balik tu search bar, dia ada kesilapan
+		- kesilapan dia, bila kita type user memang keluar tu senarai user,
+		  tapi bila kita klik pergi page 2 dia auto reload pergi page 1
+		  (contohnya la kan, saya da 8 orang role: users, bila search dia kasih keluar di page 1 5 orang seja
+		  (1 page tu,saya kasih limit dia 5 seja), jadi masih ada baki 3 lagi dalam page 2, tapi bila saya klik
+		   tu page 2 dia auto reload pergi page 1 balik)
+	- jadi yang ini sudah ubah, dan dapat sudah la tengok dalam page 2 tu
+	- 

@@ -1,1 +1,7 @@
-
+- hari ni buat untuk filtering menggunakan search bar pula,
+	  dapat tu, memang dapat. tapi mahu faham balik tu tidak senang,
+	  sebab mahu tahu function apa yang kena guna, di mana function tu kena simpan
+	  kalau ubah function ini, ada effect ka dengan function yang lain.
+	- jadi, kena jelaskan betul-betul dengan chatgpt la, apa yang kita mahu
+	- hari ni saya try buat untuk login notification juga, kalau tengok dari localhost boleh la,
+	  tapi kalau dari admin/user dashboard tidak dapat.
