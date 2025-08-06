@@ -1,0 +1,4 @@
+Apa yang blocking hari ini?
+    - untuk blocking tidak juga banyak
+      (cuma design untuk User belum siap lagi)
+      (sama warna untuk dashboard / page user belum buat lagi)

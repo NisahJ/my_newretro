@@ -1,0 +1,4 @@
+Apa yang saya buat kemarin?
+    - sama ja buat figma
+    - siapkan design untuk homepage
+    - lepas tu start buat untuk user dashboard
