@@ -1,0 +1,7 @@
+Apa yang blok saya hari ini?
+    - untuk bahagian saya, design User Dashboard
+      - tidak banyak juga blok
+        - dari segi pilihan warna seja
+        - dan ada tambahan untuk logo, penganjur
+    - dan untuk homepage pula, kekal sama
+    - untuk Admin Panel pula, masih dalam pembuatan (lyn)

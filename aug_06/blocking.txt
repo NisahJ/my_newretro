@@ -1,0 +1,5 @@
+Apa yang blok saya hari ini?
+    - tidak juga banyak yang blok hari ini,
+      - cuma ada penambahbaikan dalam design dan pengurangan dalam design
+      - mana function yang tidak diperlukan dalam design di buang
+      - dan mana function yang di perlukan ditambah
