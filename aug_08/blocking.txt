@@ -1,0 +1,11 @@
+Apa yang blok saya hari ini?
+    - apa yang blok :- 
+                     - admin panel belum siap
+                       (saya buat mana yang saya tahu ada perubahan sahaja,)
+                       (mana yang saya tidak tahu, saya tidak ubah, sebab kalau saya ubah)
+                       (takut nanti jadi lain pula (tambah masalah lain) )
+                    - untuk user dashboard (bahagian user)
+                      (buat masa ni, tidak ada perubahan, disebabkan admin panel belum siap lagi)
+                      (jadi kena siapkan dulu admin, baru boleh teruskan bahagian user)
+
+                
