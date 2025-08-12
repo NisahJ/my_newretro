@@ -1,0 +1,9 @@
+Apa yang saya buat hari ni?
+	- hari ini, kami kasih settel untuk admin panel
+	  - alhamdullilah siap juga, so boleh sudah fokus untuk next step
+	- so, hari ni kami start sudah untuk coding
+	- tapi sebelum tu sir mau kami buat projek management dulu (notion)
+		(notion buat malam ni, saya akan buat untuk homepage dan user dashboard)
+		(partner akan buat admin)
+		(mungkin ini kami boleh try n error dulu untuk design dalam figma)
+		(sebelum kasih masuk database sekali)
