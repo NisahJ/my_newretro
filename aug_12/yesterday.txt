@@ -1,0 +1,6 @@
+Apa yang saya buat kemarin ni?
+	- hari ini, kami kasih settel untuk admin panel
+	- so, hari ni kami start sudah untuk coding
+	- tapi sebelum tu sir mau kami buat projek management dulu
+		- mungkin ini kami boleh try n error dulu untuk design dalam figma
+		  sebelum kasih masuk database sekali

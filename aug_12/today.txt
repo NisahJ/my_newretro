@@ -1,0 +1,14 @@
+Apa yang saya buat hari ini?
+    - untuk masa ni, untuk convert design homepage pergi cursor
+      - halaman utama hampir siap (mahu adjust lagi kedudukan dalam footer)
+      - latar belakang juga hampir siap
+      - untuk program belum mula lagi
+
+    - sama juga untuk user dashboard
+
+    - ada buat metting dengan sir, kasih tunjuk projek management (notion)
+      - ini apa perubahanan mahu buat nanti
+
+    - untuk projek
+      - buat file projek dulu
+      - baru push pergi git hub
