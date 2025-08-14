@@ -1,0 +1,11 @@
+Apa yang blok saya hari ini?
+    - untuk hari ini kami belum lagi buat untuk authentication
+      -  jadi saya belum dapat mulakan untuk user dash board
+      -  untuk homepage saya sudah siapkan halaman utama,
+         mengenai kami masih ada maklumat yang beum cukup
+         hubungi sudah siapka
+         untuk program pula, untuk paparan page sudah ada,
+          tapi perlu perubahan lagi la. dan ini akan masih dalam proses
+          sebab maklumat dia nanti akan link dengan admin
+
+    - 

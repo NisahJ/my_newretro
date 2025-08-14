@@ -1,0 +1,6 @@
+Apa yang saya buat hari ini?
+    - untuk masa ni, untuk convert design homepage pergi cursor
+    - ada buat metting dengan sir, kasih tunjuk projek management (notion)
+    - untuk projek
+      - buat file projek dulu
+      - baru push pergi git hub
