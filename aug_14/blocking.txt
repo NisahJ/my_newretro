@@ -1,0 +1,10 @@
+Apa yang blok saya hari ini?
+    - hari ni kami metting ke 2 dengan sir,
+      - jadi kami bentang yang homepage untuk projek
+        saya guna html untuk buat page tu, tapi sir masih dalam liveview
+        jadi, saya tukar, dan sudah push balik dalam github.
+        sekarang tunggu approvel dari sir.
+    - lepas tu kami ada tambahan baru dalam erd :- elaun staff
+      yang ini lyn yang akan buat
+      - untuk design dia belum ada lagi
+    -

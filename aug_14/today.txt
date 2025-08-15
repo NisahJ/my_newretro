@@ -1,0 +1,14 @@
+Apa yang saya buat hari ini?
+    - hari ni push homepage page dalam github
+    - tapi saya buat dalam html, jadi sir suruh ubah pergi liveview
+      dan sudah ubah, jadi sekarang tunggu approvel dari sir dulu
+    - dalam ERD ada tambahan table bahagian admin :- elaun (staff)
+      lyn sudah buat ERD dia, dan sir sudah juga tengok tu ERD
+      tapi untuk design belum lagi buat
+    
+    - hari ni juga, saya ada cuba buat userdashboard untuk :-
+      - registeration page
+      - login page
+      - forgot password page
+
+      - tapi belum siap sepenuhnya, jadi akan sambung besok
