@@ -1,0 +1,6 @@
+Apa yang blok saya hari ini?
+    - blok untuk group saya masih di design,
+      ini tambahan baru dalam admin panel
+      sir belum tengok design figma lagi, dan belum approve
+    - untuk homepage, okey sudah , cuma belum lengkap
+    - 

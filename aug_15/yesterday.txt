@@ -1,0 +1,9 @@
+Apa yang saya buat kemarin ini?
+    - hari ni push homepage page dalam github, tunggu approvel dari sir
+    - dalam ERD ada tambahan table bahagian admin :- elaun (staff)
+      tapi untuk design belum lagi buat
+    
+    - hari ni juga, saya ada cuba buat userdashboard untuk :-
+      - registeration page
+      - login page
+      - forgot password page

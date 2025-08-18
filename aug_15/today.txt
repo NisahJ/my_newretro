@@ -1,0 +1,6 @@
+Apa yang saya buat hari ini?
+    - hari ni saya cuba siapkan page untuk daftar masuk, log masuk dan lupa kata laluan
+    - untuk ini hampir siap sudah,
+    - untuk homepage sir sudah approve, tapi belum lengkap
+      sudah merge dalam projek
+    - 
