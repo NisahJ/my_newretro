@@ -1,0 +1,13 @@
+Apa yang blok saya hari ini?
+    - pertama yang blok, login page tidak berfungsi,
+      ada kesalahan dalam kode saya, dan ada kode yang saya tidak tulis
+      - saya sudah buat hari jumaat lepas, dan berjaya run.
+        tapi tidak tahu hari ini, tiba-tiba error,
+        ( boleh kasih masuk email, password. tapi tidak link pergi userdashboard)
+    - untuk yang ini,saya sudah betulkan dan boleh run dan link sudah pergi userdashboard
+    
+    - seterusnya pula, page setting dapat sudah buat
+      (tapi macam siap sepenuhnya ada yang mahu diubah lagi)
+
+    - dan page untuk userdashboard
+      ( ini masih dalam proses)

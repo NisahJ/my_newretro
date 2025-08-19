@@ -1,0 +1,9 @@
+Apa yang saya buat hari ini?
+    -  hari ni saya kasih betul balik page untuk login
+       - ada kesalahan dalam kode dan ada kode yang hilang
+
+    -  dan buat page untuk setting
+       - untuk ini boleh guna sudah,
+         tapi masih ada yang mahu di tengok balik
+         (macam perlukah kotak ni dalam ni page, dan lain-lain lagi)
+    
