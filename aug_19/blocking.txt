@@ -1,0 +1,6 @@
+Apa yang blok saya hari ini?
+    - hari ni, masa saya kasih ubah tu jarak (spacing) kotak,
+      saya makan masa di sini, sebab sudah ubah kode dia dalam page tu pun tidak dapat
+      jadi cuba cari guna inspect jumpa di bahagian core component,
+      bila ubah di core compenent pula, dia terubah banyak,
+      jadi kena ubah siki-sikit dulu, baru okey
