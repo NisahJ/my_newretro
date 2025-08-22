@@ -1,0 +1,5 @@
+Apa yang blok saya hari ini?
+    - yang blok, bila mahu simpan data pengguna tu
+       dia tidak simpan, tiada notification success ataupun error
+       dan data tiada dalam database juga.
+    - jadi blok saya masih di sini, dan saya cuba cari cara untuk selesaikan yang ini
