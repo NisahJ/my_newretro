@@ -1,0 +1,7 @@
+Apa yang blok saya hari ini?
+    - apa yang blok? - ic_attachment.
+      - saya sudah dapat masukkan data dalam database, tapi
+        ic_attachment belum tidak masuk masih :- nil
+      - sudah tanya dengan kawan-kawan, air cursor, chat Gpt
+        pun sama juga, belum dapat jawapan dia lagi
+    - jadi kena sambung lagi balik

@@ -1,0 +1,8 @@
+Apa yang saya buat hari ini?
+    - hari ni saya buat page user_profile,
+      tapi belum siap, dan ada blocking disini.
+      - saya sudah tanya ai cursor dan chat Gpt,
+        tapi saya belum jumpa lagi cara kasih selesai
+        blocking saya ni.
+    - jadi saya kena sambung lagi besok, cari lagi macam mana mahu 
+      kasih selesai masalah ni

@@ -1,0 +1,7 @@
+Apa saya buat hari ini?
+    - hari ni saya cuba kasih siap page untuk user_profile,
+      dan hampir siap juga, cuma masih ada masalah dengan
+      penyimpanan data untuk ic_attachment dalam database.
+    - saya sudah rujuk, tanya dengan kawan-kawan, ai cursor, chat Gpt, gemini juga,
+      tapi masih beum jumpa lagi macam mana mahu kasih selesai ni masalah,
+    - 
