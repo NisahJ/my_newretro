@@ -1,0 +1,18 @@
+Apa yang blok saya hari ini?
+    - masih banyak yang blok, 
+      - ic_attachment masih tidak dapat, masih tidak dapat upload, simpan dalam database
+      - senarai kursus, baru ja saya mula
+      - susunan form dalam paparan page senarai kursus pun belum lagi
+
+    ** ini paling bahaya **
+
+      - kesalahan dalam github da cursor
+        - tidak git pull,
+        - masuk main
+        - buat kerja dalam main
+                     == ROSAK
+
+            ## sudah kena kasih bagus
+               ## TAPI 
+                  INGAT...
+                  PASTIKAN buat kerja lepasni dalam BRANCH
