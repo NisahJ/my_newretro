@@ -1,0 +1,3 @@
+Apa blocking saya hari ini? 
+- pertama masih blok lagi dalam userprofile, ic_attachment.
+- masih tidak dapat upload dan simpan dalam database

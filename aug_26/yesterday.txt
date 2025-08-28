@@ -1,0 +1,5 @@
+Apa yang saya buat hari ini?
+    - hari kasih tahu sir, pasal masalah ic_attachment yang tidak dapat upload dengan simpan dalam database
+    - buat task baru dalam notion - task ic_attachment
+    - buat page untuk senarai kursus
+    - 

@@ -1,0 +1,3 @@
+Apa yang saya buat hari ini? 
+- siapkan page senarai_kursus, untuk ini hampir siap sudah
+- tinggal saya siapkan dalam lamanutama-programkursus-page
