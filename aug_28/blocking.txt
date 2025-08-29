@@ -1,0 +1,10 @@
+Apa yang blok saya hari ini?
+    - hari saya masih lagi ada blok di bahagian user_profile
+      - bahagian gambar, selepas gambar di upload,
+        file tidak tunjukkan apa jenis file tu,
+        sepatutnya file yang di upload tu boleh tahu, dia ni gambar ka pdf ka 
+
+    - dalam senarai_kursus pula,
+      masih ada susunan yang belum betul
+
+    - dalam lamanutama, perlu susun semula icon pengguna dan admin

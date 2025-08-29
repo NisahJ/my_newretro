@@ -1,4 +1,4 @@
-Apa yang saya buat hari ini?
+Apa yang saya kemarin hari ini?
     - hari ni, Sir tolong kami selesaikan masalah ic_attachment
       - dari segi code, ada masalah bahagian saya, page user_profile
         
